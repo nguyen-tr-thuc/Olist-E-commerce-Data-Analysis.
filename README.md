@@ -25,7 +25,17 @@ Olist is a Brazilian startup that operates in the e-commerce segment , mainly th
     * Analysis by Payment Type
     * Analysis by Product Categories
     * Analysis by Review Score
-      
+## Answer a series of business questions
+1. What is revenue over year by Olist, how it changed over time?
+2. Total orders on E-commerce by status
+3. Is there any growing trend on brazilian e-commerce?
+4. What are the most popular product categories on Olist, and how do their sales volumes?
+5. Level of satisfation
+6. Payment type analysis
+7. Count order and revenue over year
+8. Number order per state
+9. Average delivery time
+   
 ## Recency , Frequency , Monetary Analysis
 In this project , I am using a behavioral customer segmentation method, which is the RFM analysis.</br>
 The RFM segments customers based on 3 main components : 
