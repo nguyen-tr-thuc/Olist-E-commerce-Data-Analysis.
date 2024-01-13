@@ -36,12 +36,19 @@ Olist is a Brazilian startup that operates in the e-commerce segment , mainly th
 8. Number order per state
 9. Average delivery time
    
-## Recency , Frequency , Monetary Analysis
-In this project , I am using a behavioral customer segmentation method, which is the RFM analysis.</br>
-The RFM segments customers based on 3 main components : 
-- **Recency** : How much time has elapsed since the customers last activity or transaction with the Brand?
-- **Frequency** : How often has a customer transacted or interacted with the brand during a particular period of time? 
-- **Monetary** : Also referred to as “monetary value,” this factor reflects how much a customer has spent with the brand during a particular period of time.
+
 ## Why RFM Works
 According to Arthur Hughes from the Database Marketing Institute, Customers who have purchased from you recently are more likely to respond to your next promotion than those whose last purchase was further in the past. This is a universal principle which has been found to be true in almost all industries: insurance, banks, cataloging, retail, travel, etc. It is also true that frequent buyers are more likely to respond than less frequent buyers. Big spenders often respond better than low spenders. <br>
 By identifying these big spenders, we can focus our marketing efforts to these big spenders to make good returns.
+## RFM Analysis
+The “RFM” in RFM analysis stands for recency, frequency and monetary value. RFM analysis is a way to use data based on existing customer behavior to predict how a new customer is likely to act in the future. An RFM model is built using three key factors:
+
+how recently a customer has transacted with a brand how frequently they’ve engaged with a brand how much money they’ve spent on a brand’s products and services a basic CRM system can perform rudimentary tracking of the three easily quantifiable characteristics that contribute to RFM analysis:
+
+Recency value: This refers to the amount of time since a customer’s last interaction with a brand, which can include their last purchase, a visit to a website, use of a mobile app, a “like” on social media and more. Recency is a key metric because customers who have interacted with your brand more recently are more likely to respond to new marketing efforts.
+
+Frequency value: This refers to the number of times a customer has made a purchase or otherwise interacted with your brand during a particular period of time. Frequency is a key metric because it shows how deeply a customer is engaged with your brand. Greater frequency indicates a higher degree of customer loyalty.
+
+Monetary value: This refers to the total amount a customer has spent purchasing products and services from your brand over a particular period of time. Monetary value is a key metric because the customers who have spent the most in the past are more likely to spend more in the future.
+
+
