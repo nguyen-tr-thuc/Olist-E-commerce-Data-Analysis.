@@ -51,4 +51,7 @@ Frequency value: This refers to the number of times a customer has made a purcha
 
 Monetary value: This refers to the total amount a customer has spent purchasing products and services from your brand over a particular period of time. Monetary value is a key metric because the customers who have spent the most in the past are more likely to spend more in the future.
 
+## Conclusions
+
+
 
