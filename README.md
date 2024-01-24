@@ -52,33 +52,10 @@ Frequency value: This refers to the number of times a customer has made a purcha
 Monetary value: This refers to the total amount a customer has spent purchasing products and services from your brand over a particular period of time. Monetary value is a key metric because the customers who have spent the most in the past are more likely to spend more in the future.
 
 ## Conclusions
-* Champion Segment (0.49%):
+The RFM model helps identify important customer groups such as Champions and Loyalists. From there increasing customer retention, a study from Bain & Company shows that a 5% increase in customer retention rate can increase business profits by 25-95%.
 
-Characteristics: Most frequent spenders, easily adopt new products and services.
-Strategy: Implement a cross-selling strategy, recommend items of greater value and product combos based on purchase history.
-* Loyal Customers Segment (7.16%):
-
-Characteristics: Average monetary value 50% higher than overall average.
-
-Strategy: Propose incentive programs tailored to this customer group's preferences to further enhance loyalty.
-
-* Promise Segment (More than 30%):
-
-Characteristics: Recent and frequent shoppers.
-
-Strategy: Ensure purchase frequency, suggest information about similar products, and implement cross-sell/up-sell strategies, especially with larger-sized products.
-
-* Can't Lose Them Segment (15.42%):
-
-Characteristics: Customers who made frequent purchases but haven't returned for a long time with large purchases.
-
-Strategy: Reactivate their activity through campaigns such as cashback and bonus programs. Plan discount product campaigns and offers based on gift vouchers by observing similar customer behavior and analyzing product association rules.
-
-* Need_Attention Segment:
-
-Characteristics: Customers with less frequent purchases, but their total transaction amount contributes significantly to profit.
-
-Strategy: Organize cashback and bonus campaigns to retain customers and encourage them to make more purchases. Plan discount product campaigns and offers based on gift vouchers by observing similar customer behavior and analyzing product association rules.
-
+RFM helps businesses better understand customer needs and preferences, thereby providing suitable products and services. From there, creating sympathy and trust from customers.
+## Limitations of RFM technique
+Because it uses data from the past, insights from analytics are mainly applied to current customers and only basic forecasts of that customer's future consumption behavior. Because this RFM model is not capable of calculating factors that influence external factors or influence consumer emotions such as: super sale days, promotional codes, buying goods at good prices on major holidays, etc. ..
 
 
