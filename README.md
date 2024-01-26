@@ -37,10 +37,9 @@ Olist is a Brazilian startup that operates in the e-commerce segment , mainly th
 9. Average delivery time
    
 ## Customer Segmentation and RFM Modeling
-## Why RFM Works
 According to Arthur Hughes from the Database Marketing Institute, Customers who have purchased from you recently are more likely to respond to your next promotion than those whose last purchase was further in the past. This is a universal principle which has been found to be true in almost all industries: insurance, banks, cataloging, retail, travel, etc. It is also true that frequent buyers are more likely to respond than less frequent buyers. Big spenders often respond better than low spenders. <br>
 By identifying these big spenders, we can focus our marketing efforts to these big spenders to make good returns.
-## RFM Analysis
+## RFM Modeling
 The “RFM” in RFM analysis stands for recency, frequency and monetary value. RFM analysis is a way to use data based on existing customer behavior to predict how a new customer is likely to act in the future. An RFM model is built using three key factors:
 
 how recently a customer has transacted with a brand how frequently they’ve engaged with a brand how much money they’ve spent on a brand’s products and services a basic CRM system can perform rudimentary tracking of the three easily quantifiable characteristics that contribute to RFM analysis:
