@@ -1,5 +1,5 @@
 ## Data source
-Brazilian E-Commerce Public Dataset by Olist
+Brazilian ecommerce public dataset of orders made at Olist Store. The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. Its features allows viewing an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers.
 
 https://www.kaggle.com/olistbr/brazilian-ecommerce
 
@@ -36,7 +36,7 @@ Olist is a Brazilian startup that operates in the e-commerce segment , mainly th
 8. Number order per state
 9. Average delivery time
    
-
+## Customer Segmentation and RFM Modeling
 ## Why RFM Works
 According to Arthur Hughes from the Database Marketing Institute, Customers who have purchased from you recently are more likely to respond to your next promotion than those whose last purchase was further in the past. This is a universal principle which has been found to be true in almost all industries: insurance, banks, cataloging, retail, travel, etc. It is also true that frequent buyers are more likely to respond than less frequent buyers. Big spenders often respond better than low spenders. <br>
 By identifying these big spenders, we can focus our marketing efforts to these big spenders to make good returns.
