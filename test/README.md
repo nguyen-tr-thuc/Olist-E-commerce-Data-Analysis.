@@ -1,5 +1,5 @@
 ## Data source
-Brazilian E-Commerce Public Dataset by Olist
+Brazilian ecommerce public dataset of orders made at Olist Store. The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. Its features allows viewing an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers.
 
 https://www.kaggle.com/olistbr/brazilian-ecommerce
 
@@ -36,11 +36,10 @@ Olist is a Brazilian startup that operates in the e-commerce segment , mainly th
 8. Number order per state
 9. Average delivery time
    
-
-## Why RFM Works
+## Customer Segmentation and RFM Modeling
 According to Arthur Hughes from the Database Marketing Institute, Customers who have purchased from you recently are more likely to respond to your next promotion than those whose last purchase was further in the past. This is a universal principle which has been found to be true in almost all industries: insurance, banks, cataloging, retail, travel, etc. It is also true that frequent buyers are more likely to respond than less frequent buyers. Big spenders often respond better than low spenders. <br>
 By identifying these big spenders, we can focus our marketing efforts to these big spenders to make good returns.
-## RFM Analysis
+## RFM Modeling
 The “RFM” in RFM analysis stands for recency, frequency and monetary value. RFM analysis is a way to use data based on existing customer behavior to predict how a new customer is likely to act in the future. An RFM model is built using three key factors:
 
 how recently a customer has transacted with a brand how frequently they’ve engaged with a brand how much money they’ve spent on a brand’s products and services a basic CRM system can perform rudimentary tracking of the three easily quantifiable characteristics that contribute to RFM analysis:
@@ -50,5 +49,12 @@ Recency value: This refers to the amount of time since a customer’s last inter
 Frequency value: This refers to the number of times a customer has made a purchase or otherwise interacted with your brand during a particular period of time. Frequency is a key metric because it shows how deeply a customer is engaged with your brand. Greater frequency indicates a higher degree of customer loyalty.
 
 Monetary value: This refers to the total amount a customer has spent purchasing products and services from your brand over a particular period of time. Monetary value is a key metric because the customers who have spent the most in the past are more likely to spend more in the future.
+
+## Conclusions
+The RFM model helps identify important customer groups such as Champions and Loyalists. From there increasing customer retention, a study from Bain & Company shows that a 5% increase in customer retention rate can increase business profits by 25-95%.
+
+RFM helps businesses better understand customer needs and preferences, thereby providing suitable products and services. From there, creating sympathy and trust from customers.
+## Limitations of RFM technique
+Because it uses data from the past, insights from analytics are mainly applied to current customers and only basic forecasts of that customer's future consumption behavior. Because this RFM model is not capable of calculating factors that influence external factors or influence consumer emotions such as: super sale days, promotional codes, buying goods at good prices on major holidays, etc. ..
 
 
