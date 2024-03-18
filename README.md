@@ -16,3 +16,13 @@ This repository contains a data analysis project that explores the sales data of
 ## Customer Segmentation and RFM Modeling 
 
 Using RFM anaylsis and K-means Clustering, we created the below Clusters or segments of customers to further give targetted recommendation to them. 
+- We can Upsell high end products to Big Spenders and Cross Sell complimentary products to Loyal and Best Customer (VVIP).
+
+- Potential Loyalists: They are highly potential to enter our loyal customer segments, discounts for future purchases are very suitable for this audience.
+
+- Lagging Customers: They are showing promising signs with quantity and value of their purchase but it has been a while since their last purchases. Let’s target them with their wishlist items, a limited time offer discount and/or a free delivery.
+
+- Hibernating Almost Lost: They made some initial purchase but have not seen them since. Let’s spend some resource to build our brand awareness with them.
+
+- Churned Customers: Poorest performers of our RFM model. They might have went with our competitors for now and will require a different activation strategy to win them back. We can see many things to improve our business through surveying this customer group.
+
