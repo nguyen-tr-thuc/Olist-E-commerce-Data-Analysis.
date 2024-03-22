@@ -1,8 +1,0 @@
-Customer Segment,mean_Recency,mean_Frequency,mean_Monetary,segment_size,Marketing Action,Segment Tiers
-Big Spenders,124.9,1.1,388.6,11755,Upsell most expensive items,Top Tier 
-Churned Customers,373.2,1.0,41.3,11696,Don't spend too much trying to re-acquire / What can we do better Survey,Low Tier 
-Hibernating - Almost Lost,455.2,1.0,108.7,11335,Aggressive price incentives,Low Tier 
-Lagging Customers,229.8,1.0,61.7,11858,Price incentives / Limited coupons / Free delivery / Gift with Purchase,Low Tier 
-Loyal Customers,270.2,2.0,199.2,1264,Loyalty programs / Cross-sell,Top Tier 
-Potential Loyalists,190.8,1.0,172.0,44909,Cross-sell recommendations and Discount coupons,Low Tier 
-VVIP,75.4,2.4,437.4,579,No Price Incentives / Offer Limited edition and Premium loyalty programs,Top Tier 
