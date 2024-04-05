@@ -14,17 +14,21 @@ This repository contains a data analysis project that explores the sales data of
 * RFM modelling
 * K-Means clustering
 ## Customer Segmentation and RFM Modeling 
-- Using RFM anaylsis and K-means Clustering, we created the below Clusters or segments of customers to further give targetted recommendation to them.
+Using RFM analysis combined with K-means clustering, we've identified distinct customer segments to facilitate targeted recommendations:
 
-- We can Upsell high end products to Big Spenders and Cross Sell complimentary products to **Loyal** and **Best Customer (VVIP)**.
+* Big Spenders: This group represents customers with significant spending habits. We propose upselling high-end products to them, as they're likely to appreciate premium offerings.
 
-- Potential Loyalists: They are highly potential to enter our loyal customer segments, discounts for future purchases are very suitable for this audience.
+* Loyal and Best Customers (VVIP): These are our most loyal customers who frequently engage with our brand. For them, we suggest cross-selling complementary products to enhance their overall experience.
 
-- Lagging Customers: Let’s target them with their wishlist items, a limited time offer discount and/or a free delivery.
+* Potential Loyalists: This segment shows promise in transitioning to loyal customers. To encourage their loyalty, we recommend offering discounts on future purchases as an incentive.
 
-- Hibernating Almost Lost: They made some initial purchase but have not seen them since. Let’s spend some resource to build our brand awareness with them.
+* Lagging Customers: These customers have shown interest but haven't made recent purchases. To re-engage them, we propose targeting them with their wishlist items and providing limited-time offers or free delivery.
 
-- Churned Customers: Poorest performers of our RFM model. They might have went with our competitors for now and will require a different activation strategy to win them back. We can see many things to improve our business through surveying this customer group.
+* Hibernating Almost Lost: This group consists of customers who made initial purchases but haven't returned. Our strategy involves investing resources in building brand awareness to reignite their interest.
+
+* Churned Customers: This segment represents customers who have stopped engaging with our brand. To win them back, we need a different approach focused on understanding their reasons for leaving and implementing targeted strategies to reacquire their business.
+![image](https://github.com/ThucNguyen22/Olist-E-commerce-Data-Analysis./assets/151516549/e7236274-bd25-4fc7-92a6-67a53cd0cbb9)
+![image](https://github.com/ThucNguyen22/Olist-E-commerce-Data-Analysis./assets/151516549/7fe0147a-21e6-48e3-8334-eff703d3749a)
 
 ## Recommendation Systems  
 
