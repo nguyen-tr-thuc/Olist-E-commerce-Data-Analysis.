@@ -30,7 +30,7 @@ Using RFM analysis combined with K-means clustering, we've identified distinct c
 ![image](https://github.com/ThucNguyen22/Olist-E-commerce-Data-Analysis./assets/151516549/e7236274-bd25-4fc7-92a6-67a53cd0cbb9)
 ![image](https://github.com/ThucNguyen22/Olist-E-commerce-Data-Analysis./assets/151516549/7fe0147a-21e6-48e3-8334-eff703d3749a)
 
-### 3: Recommendation Systems  
+### 3. Recommendation Systems  
 
 Recommender systems are algorithms aimed at suggesting relevant items to users (items being movies to watch, text to read, products to buy or anything else depending on industries).
 
