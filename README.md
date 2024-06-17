@@ -13,6 +13,14 @@ This repository contains a data analysis project that explores the sales data of
 ### 2. Customer Analysis
 * RFM modelling
 * K-Means clustering
+## Summary Olist Analysis:
+* The revenue from 09/2016 to 10/2018 was 15.4 million, and the orders from 09/2016 to 10/2018 were 96,470. The sales continuously increased over time.
+* The average per order (AOV) was $160, and the cost per order (CPO) was also $160.
+* The most popular products were bed_bath_table, health_beauty, sports_leisure, furniture_decor, and computers_accessories.
+* 58% of sellers on Olist are active sellers. And they increased over time.
+* 2.9% of customers made repeat purchases; they obtained 5.6% of the revenue.
+* The average review score on Olist was 4, and the highest review score was over 50%.
+* The average cancellation rate was 0.63%.
 ## Customer Segmentation and RFM Modeling 
 Using RFM analysis combined with K-means clustering, we've identified distinct customer segments to facilitate targeted recommendations:
 
@@ -40,4 +48,4 @@ We will be using below approach to Recommend products -
 Recommendation for Potential Loyalists and Other - 
 ALS (Alternating Least Squares) is an implicit recommendation algorithm to make a recommendation of products and product categories to the users. ALS is an iterative optimization process where for every iteration it tries to arrive closer and closer to a factorized representation of the original data.
 
-This dashboard summarizes the charts drawn in data analysis. Dashboard was shared at here <https://lookerstudio.google.com/u/0/reporting/dad93adf-5ad4-448f-9fdd-f75768732542/page/8LItD>
+This dashboard summarizes the charts drawn in data analysis. Dashboard was shared at here [Marketing Dashboard](<https://lookerstudio.google.com/u/0/reporting/dad93adf-5ad4-448f-9fdd-f75768732542/page/8LItD>)
