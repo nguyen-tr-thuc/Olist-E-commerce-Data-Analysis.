@@ -1,5 +1,5 @@
 # Olist E-commerce Data Analysis
-
+Apply data analysis (descriptive and predictive) on Ecommerce data
 ## Exploration, Insight generation and Visualization of E-commerce sales data
 This repository contains a data analysis project that explores the sales data of the Olist platform and provides insights into revenue trends, order patterns, product categories, seller performance, customer behavior, and payment methods. The project is implemented in Python using Jupyter notebooks and various data science libraries.
 
